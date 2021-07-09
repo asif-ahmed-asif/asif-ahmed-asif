@@ -20,7 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asif-ahmed-asif&show_icons=true&locale=en&layout=compact" alt="asif-ahmed-asif" /></p>
 
-(https://github-readme-stats.vercel.app/api?username=username=asif-ahmed-asif&show_icons=true&theme=radical)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asif-ahmed-asif&show_icons=true&theme=radical)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asif-ahmed-asif&" alt="asif-ahmed-asif" /></p>
