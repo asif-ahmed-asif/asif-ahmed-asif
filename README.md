@@ -20,8 +20,10 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asif-ahmed-asif&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asif-ahmed-asif&show_icons=true&theme=great-gatsby)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asif-ahmed-asif&show_icons=true&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asif-ahmed-asif&theme=dark" alt="asif-ahmed-asif" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asif-ahmed-asif&show_icons=true&theme=great-gatsby&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asif-ahmed-asif&theme=great-gatsby" alt="asif-ahmed-asif" /></p>
