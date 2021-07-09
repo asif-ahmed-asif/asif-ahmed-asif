@@ -22,6 +22,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asif-ahmed-asif&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asif-ahmed-asif&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asif-ahmed-asif&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asif-ahmed-asif&" alt="asif-ahmed-asif" /></p>
