@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asif Ahmed</h1>
-<h3 align="center">A student of Computer Science</h3>
+<h3 align="center">Web Developer</h3>
 
 - 🌱 I’m currently learning **Laravel**
-
-- 💬 Ask me about **C#**
 
 - 📫 How to reach me **asifahmed1132@gmail.com**
 
