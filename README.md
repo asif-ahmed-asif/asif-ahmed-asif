@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asif Ahmed</h1>
 <h3 align="center">Web Developer</h3>
 
-- 🌱 I’m currently learning **Laravel**
-
 - 📫 How to reach me **asifahmed1132@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
