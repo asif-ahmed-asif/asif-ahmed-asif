@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asif Ahmed</h1>
-<h3 align="center">Software Engineer | Asp.Net Core | C# | Angular</h3>
+<h3 align="center">Web Developer | Asp.Net Core | C# | Angular</h3>
 
 - 📫 How to reach me **asifahmed1132@gmail.com**
 
