@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, This is Asif</h1>
-<h3 align="center"> Software Engineer | Asp.Net Core | Asp.Net MVC | C# | Angular | TypeScript </h3>
+<h3 align="center">Asp.Net Core | Asp.Net | C# | Angular | TypeScript | MS SQL Server</h3>
 
 - 📫 How to reach me **asifahmed1132@gmail.com**
 
